@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sra Ahmed</h1>
-<img
-  src="../SURA/Pictures/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966.gif"
-  alt=""
-/>
+
 
 <h3 align="center">I'm FullStack-Developer</h3>
 
